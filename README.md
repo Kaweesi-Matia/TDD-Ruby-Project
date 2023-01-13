@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [School library] <a name="about-project"></a>
+# 📖 [TDD-Ruby-Project] <a name="about-project"></a>
 
 > This is an OOP for a school library using Ruby
 
@@ -149,8 +149,7 @@ Example commands:
 ### Install
 
 Install this project with:
-gem install colorize
-gem install json
+gem install rspec
 
 <!--
 Example command:
@@ -165,6 +164,8 @@ Example command:
 
 To run the project, execute the following command:
 
+ruby solver.rb
+
 <!--
 Example command:
 
@@ -176,6 +177,8 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+
+rspec spec/test_spec.rb
 
 <!--
 Example command:
